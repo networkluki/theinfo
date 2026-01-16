@@ -1,1 +1,1 @@
-# theinfo
+# theinfo - IT & Software Technologies
